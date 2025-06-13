@@ -1,0 +1,39 @@
+{
+    "strings": {
+        "SS2_ELITE_DAZING": "{0} Aturdidor",
+        "SS2_EQUIP_AFFIXDAZING_NAME": "Ofuscador Focal",
+        "SS2_EQUIP_AFFIXDAZING_PICKUP": "Conviértete en un aspecto de la confusión.",
+
+        "SS2_ELITE_POISONOUS": "{0} Venenoso",
+        "SS2_EQUIP_AFFIXPOISONOUS_NAME": "Resolución Malévola",
+        "SS2_EQUIP_AFFIXPOISONOUS_PICKUP": "Conviértete en un aspecto de la toxicidad.",
+
+        "SS2_ELITE_KINETIC": "{0} Kinético",
+        "SS2_EQUIP_AFFIXKINETIC_NAME": "Presión sin Límites",
+        "SS2_EQUIP_AFFIXKINETIC_PICKUP": "Conviértete en un aspecto de la fuerza.",
+
+        "SS2_ELITE_MODIFIER_VOID": "{0} Condenado",
+        "SS2_EQUIP_AFFIXVOID_NAME": "Lazo Condenado",
+        "SS2_EQUIP_AFFIXVOID_PICKUP": "Conviértete en un discípulo del Edicto.",
+
+        "SS2_ELITE_MODIFIER_GILDED": "{0} Dorado",
+        "SS2_ELITE_AFFIXGILDED_NAME": "",
+        "SS2_ELITE_AFFIXGILDED_PICKUP":  "Conviértete en un discípulo de Providence.",
+
+        "SS2_ELITE_MODIFIER_ETHEREAL": "{0} Etéreo",
+        "SS2_EQUIP_AFFIXETHEREAL_NAME": "Restos Inestables",
+        "SS2_EQUIP_AFFIXETHEREAL_PICKUP": "Conviértete en un aspecto de lo desconocido.",
+
+        "SS2_ELITE_MODIFIER_ULTRA": "Ultra {0}",
+        "SS2_ELITE_ULTRA_SUBTITLE": "Desenlace Prevalente",
+        "SS2_EQUIP_AFFIXULTRA_NAME": "",
+        "SS2_EQUIP_AFFIXULTRA_PICKUP": "",
+
+        "SS2_ELITE_MODIFIER_EMPYREAN": "{1} Empíreo{0}",
+        "SS2_ELITE_EMPYREAN_SUBTITLE": "Devoto Pre-cognición de Petrichor V",
+        "SS2_EQUIP_AFFIXEMPYREAN_NAME": "Armonía",
+        "SS2_EQUIP_AFFIXEMPYREAN_PICKUP": "Conviértete en un aspecto de la existencia.",
+
+        "SS2_ELITE_MODIFIER_STORM": "{0} Nacido de la Tormenta",
+    }
+}

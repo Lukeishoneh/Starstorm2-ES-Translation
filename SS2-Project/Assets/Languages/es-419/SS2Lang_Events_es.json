@@ -1,0 +1,38 @@
+{
+	"strings": {
+		"SS2_EVENT_THUNDERSTORM_START": "<sprite name=\"CloudRight\">\t Una tormenta se avecina...",
+		"SS2_EVENT_THUNDERSTORM_END": "Las nubes se despejan...",
+
+		"SS2_EVENT_BLIZZARD_START": "<sprite name=\"CloudRight\">\t Una tormenta de nieve se avecina..",
+		"SS2_EVENT_BLIZZARD_END": "La nieve se despeja...",
+
+		"SS2_EVENT_SANDSTORM_START": "<sprite name=\"CloudRight\">\t Una tormenta de arena se avecina...",
+		"SS2_EVENT_SANDSTORM_END": "Las arenas se calman...",
+
+		"SS2_EVENT_ASHSTORM_START": "<sprite name=\"CloudRight\">\t Una tormenta de ceniza se avecina...",
+		"SS2_EVENT_ASHSTORM_END": "Las cenizas se calman...",
+
+		"SS2_EVENT_TARSTORM_START": "<sprite name=\"CloudRight\">\t Alquitrán llueve del cielo...",
+		"SS2_EVENT_TARSTORM_END": "El alquitrán se calma...",
+
+		"SS2_EVENT_FOG_START": "Una niebla espesa cae...",
+		"SS2_EVENT_FOG_END": "La niebla se despeja...",
+
+		"SS2_EVENT_GENERICNEMESIS_START": "Sientes una presencia siniestra...</style>",
+		"SS2_EVENT_GENERICNEMESIS_END": "La influencia misteriosa se desvanece...</style>",
+
+		"SS2_EVENT_EMPYREANSPAWN_START": "Energías poderosas comienzan a armonizarse...",
+
+		"SS2_EVENT_BLAZINGELITE_START": "El sol comienza a arder...",
+		"SS2_EVENT_BLAZINGELITE_END": "El calor sofocante se disipa...",
+
+		"SS2_EVENT_GLACIALELITE_START": "Un viento glacial sopla...",
+		"SS2_EVENT_GLACIALELITE_END": "El cortante, gélido aire se calma...",
+
+		"SS2_EVENT_OVERLOADINGELITE_START": "Energías Sobrecargadas se materializan...",
+		"SS2_EVENT_OVERLOADINGELITE_END": "Lo electrizante se va tan rápido como llegó...",
+		
+		"SS2_EVENT_MENDINGELITE_START": "El planeta comienza a repararse...",
+		"SS2_EVENT_MENDINGELITE_END": "Las energías calmantes se desvanecen..."
+	}
+}

@@ -1,0 +1,20 @@
+{
+    "strings":
+    {
+    "SS2_ARTIFACT_COGNATION_NAME": "Artefacto de la Cognación",
+	"SS2_ARTIFACT_COGNATION_DESC": "Los enemigos dejan duplicados temporales al morir.",
+    "SS2_ARTIFACT_COGNATION_PREFIX": "Cognación de {0}",
+
+    "SS2_ARTIFACT_DILUVIUM_NAME": "Artefacto del Diluvio",
+    "SS2_ARTIFACT_DILUVIUM_DESC": "Siempre estará la tormenta.",
+
+    "SS2_ARTIFACT_ADVERSITY_NAME": "Artefacto de la Adversidad",
+    "SS2_ARTIFACT_ADVERSITY_DESC": "Cada teletransportador primordial es etéreo.",
+
+    "SS2_ARTIFACT_DEVIATION_NAME": "Artefacto de la Desviación",
+    "SS2_ARTIFACT_DEVIATION_DESC": "Elige un objeto para todos los personajes antes de empezar el evento de teletransportador.",
+
+    "SS2_ARTIFACT_HAVOC_NAME": "Artefacto de los Estragos",
+    "SS2_ARTIFACT_HAVOC_DESC": "Los eventos ocurren antes y más frecuentemente. Las Tormentas son permanentes."
+    }
+}

@@ -1,0 +1,42 @@
+{
+	"strings": {
+		"SS2_ITEM_AUGURY_NAME": "Augurio",
+		"SS2_ITEM_AUGURY_DESC": "Al recibir <style=cIsHealth>{0}%</style> de tu <style=cIsHealth>salud máxima</style> como <style=cIsHealth>daño</style>, desata un <color=#FFCCED>apagón</color> devastador, <style=cIsDamage>matando instantáneamente</style> a todos los <style=cIsDamage>enemigos que no sean jefes</style> dentro del área.",
+		"SS2_ITEM_AUGURY_PICKUP": "<link=\"textWavy\">¿Los  escuchas...? Ya vienen...</link>",
+		"SS2_ITEM_AUGURY_LORE": "WIP LORE",
+
+		"SS2_ITEM_SCAVENGERSFORTUNE_NAME": "Fortuna del Saqueador",
+		"SS2_ITEM_SCAVENGERSFORTUNE_DESC": "WIP DESC",
+		"SS2_ITEM_SCAVENGERSFORTUNE_PICKUP": "WIP PICKUP",
+		"SS2_ITEM_SCAVENGERSFORTUNE_LORE": "WIP LORE",
+
+		"SS2_ITEM_VOIDROCK_NAME": "Lazo Condenado",
+		"SS2_ITEM_VOIDROCK_PICKUP": "<link=\"textWavy\">Estábamos esperando.</link>",
+		"SS2_ITEM_VOIDROCK_DESC": "Serás cazado por <style=cDeath>Sobrevivientes Némesis</style>.",
+		"SS2_ITEM_VOIDROCK_LORE": "<style=cMono>Bienvenido a DataScraper (v3.1.53 - rama beta)\n$ Extrayendo datos de la memoria... listo.\n$ Resolviendo... listo.\n$ Buscando datos relevantes...\n$ Buscando datos relevantes - continuado...\n$ Bu-can-- d-tos rele-va-va-a-a----...\n$ ...\n$ <color=#FFCCED>¿Qué es lo que buscas?</color>\n$ <color=#FFCCED>Ya sabes lo que les ocurrió</color>\n$ <color=#FFCCED>por qué molestarse cavando tumbas</color>\n$ <color=#FFCCED>sabiendo que sólo encontrarás miseria</color>\n$ <color=#FFCCED>Es esperanza</color>\n$ <color=#FFCCED>Esperas que sigan vivos</color>\n$ <color=#FFCCED>Porque tu esperanza está bien ubicada</color>\n$ <color=#FFCCED>Están vivos</color>\n$ <color=#FFCCED>y los encontrarás nuevamente</color>\n$ <color=#FFCCED><link=\"textShaky\">Muy pronto</link></color>\n$\n¡Error!\nGenerando registro de errores...\n</style>\nLos datos están muy encriptados o irreversiblemente corruptos. Considera opciones externas antes de extraer datos nuevamente.",
+
+		"SS2_ITEM_SHACKLEDLAMP_NAME": "Lámpara Embrujada",
+		"SS2_ITEM_SHACKLEDLAMP_PICKUP": "Dispara un proyectil embrujado cada 5 usos de tu habilidad principal.",
+		"SS2_ITEM_SHACKLEDLAMP_DESC": "Cada <style=cIsDamage>5 usos de tu habilidad principal</style>, dispara un proyectil embrujado por <style=cIsDamage>200%</style> <style=cStack>(+200% por acumulación)</style> de daño.",
+		"SS2_ITEM_SHACKLEDLAMP_LORE": "\"Disculpa.\"\n\n\"Sí, por aquí, por favor. Necesito preguntarte algo.\"\n\n\"Acércate.\"\n\n\"Necesito tu ayuda. Esta lámpara que ves ante ti, es meramente un fragmento de un cuerpo mayor.\"\n\n\"¿El viaje? Ah, sí. Será larga, pero no temas. Te guiaré por donde debas ir, y, aunque esté llena de peligro, no será nada con lo que no pueda asistirte.\"\n\n\"¿Hm? ¿Qué es lo que te espera, dices?\"\n\n\"Oh, ya verás. Tu recompensa será más de lo que puedas imaginar. Una vez haya vuelto a mi resplandor total, te protegeré. Te mantendré a salvo. Te daré calor. Te haré poderoso. Todas tus preocupaciones se quemarán. ¿No suena estupendo?\"\n\n\"¿Aceptas? Bien. Ahora, recoge la lámpara, rápido.\"\n\n\"Tenemos un largo viaje por delante de nosotros, amigo.\"",
+
+		"SS2_ITEM_STIRRINGSOUL_NAME": "Alma Conmovedora",
+		"SS2_ITEM_STIRRINGSOUL_DESC": "Los enemigos asesinados dejan un <style=cIsUtility>alma</style> que tiene un <style=cIsUtility>{0}%</style> <style=cStack>(+{0}% por cada tirada fallida, reiniciándose al tener éxito)</style> de chance de <style=cIsUtility>aparecer un objeto</style> al recoger.",
+		"SS2_ITEM_STIRRINGSOUL_PICKUP": "<link=\"textWavy\">¿Para qué estoy peleando?</link>",
+		"SS2_ITEM_STIRRINGSOUL_LORE": "Un espíritu de la determinación...\n<link=\"textWavy\">...Un espíritu que debe detenerse.</link>\nUna voluntad inquiebrantable de sobrevivir...\n<link=\"textWavy\">...Una voluntad vacilante de sobrevivir.</link>\n\nDispuesto a profanar su identidad...\n<link=\"textWavy\">...Dispuesto a profanar su memoria.</link>\nDispuesto a sacriicar su civilización...\n<link=\"textWavy\">...Dispuesto a sacrificar su humanidad.</link>\n\n¿Qué tan lejos llegará a vivir?\n<link=\"textWavy\">¿Qué tan lejos llegará para caer en la ruina?</link>\n¿Qué tan lejos llegará para escapar?\n<link=\"textWavy\">¿Qué tan lejos llegará para destruir?</link>\n\nTodo en el nombre de la preservación personal...\n<link=\"textWavy\">...Todo en el nombre del narcisismo.</link>\nTodo por el fin de una esperanza incierta...\n<link=\"textWavy\">...Todo por el fin de una chance nula.</link>\n\n¿Qué pasaría si se le brinda una oportunidad?\n<link=\"textWavy\">¿Qué pasaría si se le da un aliado?</link>\n¿Qué pasaría si su fueego fuese avivado?\n<link=\"textWavy\">¿Qué pasaría si se le diese una falsa esperanza?</link>\n\nQuizás se le debiera dar una chance.\n<link=\"textWavy\">Quizás se le debiera dar fuerza.</link>\nQuizás debiesen darle una propuesta.\n<link=\"textWavy\">Quizás debiese ser arrebatado primero.</link>",
+
+		"SS2_ITEM_MOXIE_NAME": "<color=#FFCCED>Agallas</color>",
+		"SS2_ITEM_MOXIE_DESC": "Aumenta <style=cIsUtility>TODAS las estadísticas</style> en un <style=cIsUtility>50%</style> durante <color=#FFCCED>tormentas</color>.",
+		"SS2_ITEM_MOXIE_PICKUP": "<color=#FFCCED>¿Cuánto más?</color>",
+		"SS2_ITEM_MOXIE_LORE": "¡Oye! ¡Tú! ¡En este archivo! Probablemente no deberías estar aquí... Guarda silencio, ¿está bien?",
+
+
+		"SS2_ITEM_REMUNERATION_NAME": "Remuneración",
+		"SS2_ITEM_REMUNERATION_DESC": "Una <style=cIsUtility>elección</style> entre tres <style=cIsHealth>objetos poderosos</style> aparece al <style=cIsUtility>inicio de cada fase</style>.",
+		"SS2_ITEM_REMUNERATION_PICKUP": "<link=\"textWavy\">... ¿A qué costo?...</link>",
+		"SS2_ITEM_REMUNERATION_FAILURE": "<color=#f4adfa><link=\"textWavy\">Que memorable...</link></color>",
+		"SS2_REMUNERATION_TERMINAL_NAME": "Pedestal",
+		"SS2_REMUNERATION_TERMINAL_CONTEXT": "<link=\"textWavy\">Completar transacción</link>",
+		"SS2_ITEM_REMUNERATION_LORE": "<link=\"textShaky\">¿Cuál es tu legado?</link>\n\nSólo venganza insignificante.\n\n<link=\"textShaky\">¿Cuál es tu identidad?</link>\n\nSolo un nombre pronunciado con desprecio.\n\n<link=\"textShaky\">¿Qué es lo que quieres?</link>\n\nSolo un nuevo propósito.\n\n<link=\"textShaky\">¿Qué necesitas?</link>\n\nSolo las armas en las que confío.\n\n<link=\"textShaky\">Así que, ¿hacia dónde irás?</link>\n\nHacia donde me hagas ir.\n\n<link=\"textShaky\">¿Qué es lo que harás entonces?</link>\n\nLo que sea que necesites.\n\n<link=\"textShaky\">¿Es todo entonces?</link>\n\nSi así lo dices.\n\n<link=\"textShaky\">Entonces ve, y muere.</link>\n\n...\n\nSiempre y cuando me estés pagando."
+	}
+}
